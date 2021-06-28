@@ -1,5 +1,5 @@
 # Self Driving Car using Behavior Cloning
-![](sdc.gif)
+![](./Behavior Cloning/result/sdc.gif)
 
 The objective of this project is to create a deep learning model which can automously drive itself in the Udacity's Self Driving Car simulator.
 
